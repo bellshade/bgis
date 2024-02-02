@@ -1,0 +1,7 @@
+bumpt2version
+Click
+Sphinx
+tox
+twine
+watchdog
+wheel

@@ -1,0 +1,4 @@
+click
+earthengine-api
+folium
+ipyleaflet
